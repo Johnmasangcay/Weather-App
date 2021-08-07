@@ -1,0 +1,109 @@
+body {
+    /* background-image: url(../images/wallpaper.jpg); */
+   background-color: #686563;
+   /* height: 170vh; */
+   text-align: center;
+    color: rgb(245, 250, 248);
+    background-image: url(../images/bg2.jpg);
+    /* height: 100vh; */
+}
+
+
+
+
+.nameStyle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.feels{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+
+.title{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:bolder;
+    color: rgb(230, 190, 164);
+}
+
+.icon{
+    
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+
+.mid-con{
+    /* background-color: #00fff; */
+    margin: none;
+    margin: 10;
+    padding: 100px; 
+
+}
+
+.top-cloud{
+    /* position: absolute; */
+    height: 200px;
+    opacity: 90%;
+    /* right: 300px;
+    top: 70px; */
+  }
+
+.bottom-cloud{
+    position: absolute;
+    height: 150px;
+    opacity: 90%;
+    left: 300px;
+    bottom: 600px;
+  }
+
+  .placeStyle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+  }
+
+.starImg{
+    
+    height: 10px;
+}
+
+.starImg:hover{
+   background-color: rgb(230, 190, 164);
+}
+
+.card{
+    border-radius: 30px;
+    padding: 2em;
+    width: 100%;
+    max-width: 420px;
+    /* margin: em; */
+    height: 100%;
+    margin-left: 20rem;
+    opacity: 90%;
+}
+
+.card-header{
+    opacity: 90%;
+    background-color: none;
+}
+
+.btnFav{
+    opacity: 70%;
+    border-radius: 50%;
+}
+
+.max{
+    margin-left: 3rem;
+}
+
+.myFav{
+    margin-left: 10px;
+}
+
+.sCard{
+    height: 80%;
+    margin: 10px;
+    position: relative;
+    padding-bottom: 40%;
+}
